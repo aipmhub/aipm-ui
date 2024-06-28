@@ -56,13 +56,13 @@ const TokenTag = forwardRef<HTMLDivElement, TokenTagProps>(
 
     if (percent > 0.3) {
       type = 'normal';
-      emoji = '😀';
+      emoji = '🌿';
     } else if (percent > 0) {
       type = 'low';
-      emoji = '😅';
+      emoji = '🍃';
     } else {
       type = 'overload';
-      emoji = '🤯';
+      emoji = '🌳';
     }
 
     const { styles, cx } = useStyles({ shape, type });

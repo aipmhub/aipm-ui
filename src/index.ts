@@ -5,10 +5,10 @@ export {
   type ActionIconGroupItems,
   type ActionIconGroupProps,
 } from './ActionIconGroup';
+export { default as Logo, type AiPMHubProps as LogoProps } from './aipmorg/AiPMHub';
 export { default as Alert, type AlertProps } from './Alert';
 export { default as Avatar, type AvatarProps } from './Avatar';
 export { default as BackBottom, type BackBottomProps } from './BackBottom';
-export { default as Logo, type LobeHubProps as LogoProps } from './brand/LobeHub';
 export { default as Burger, type BurgerProps } from './Burger';
 export { default as ChatHeader, type ChatHeaderProps } from './ChatHeader';
 export {

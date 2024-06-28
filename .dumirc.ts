@@ -26,7 +26,7 @@ const themeConfig = {
     sourceUrl: `{github}/tree/master/src/{atomId}/index.tsx`,
   },
   description: 'Lobe UI is an open-source UI component library for building AIGC web apps',
-  footer: 'Made with 🤯 by LobeHub',
+  footer: 'Made with 🤯 by AiPMHub',
 
   giscus: {
     category: 'Q&A',
