@@ -1,4 +1,4 @@
-import { Giscus } from '@lobehub/ui';
+import { Giscus } from '@aipmui/ui';
 
 export default () => {
   return (

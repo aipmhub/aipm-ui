@@ -1,5 +1,5 @@
-import { Typography } from '@lobehub/ui';
-import { Callout } from '@lobehub/ui/mdx';
+import { Typography } from '@aipmui/ui';
+import { Callout } from '@aipmui/ui/mdx';
 
 export default () => (
   <Typography>

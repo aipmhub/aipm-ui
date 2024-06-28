@@ -1,4 +1,4 @@
-import { Form, StoryBook, useControls, useCreateStore } from '@lobehub/ui';
+import { Form, StoryBook, useControls, useCreateStore } from '@aipmui/ui';
 import { Button } from 'antd';
 
 import { items } from '@/Form/demos/data';

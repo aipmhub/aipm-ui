@@ -1,4 +1,4 @@
-import { EditableText } from '@lobehub/ui';
+import { EditableText } from '@aipmui/ui';
 
 export default () => {
   return <EditableText value={'editable text'} />;

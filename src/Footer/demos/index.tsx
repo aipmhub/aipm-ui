@@ -1,4 +1,4 @@
-import { Footer, FooterProps } from '@lobehub/ui';
+import { Footer, FooterProps } from '@aipmui/ui';
 
 const columns: FooterProps['columns'] = [
   {

@@ -5,7 +5,7 @@ import {
   StoryBook,
   useControls,
   useCreateStore,
-} from '@lobehub/ui';
+} from '@aipmui/ui';
 
 import { data } from './data';
 

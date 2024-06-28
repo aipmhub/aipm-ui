@@ -1,3 +1,3 @@
-import { EmojiPicker } from '@lobehub/ui';
+import { EmojiPicker } from '@aipmui/ui';
 
 export default () => <EmojiPicker />;

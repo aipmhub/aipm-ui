@@ -1,4 +1,4 @@
-import { LogoSpline, LogoThreeProps, StoryBook, useControls, useCreateStore } from '@lobehub/ui';
+import { LogoSpline, LogoThreeProps, StoryBook, useControls, useCreateStore } from '@aipmui/ui';
 
 export default () => {
   const store = useCreateStore();

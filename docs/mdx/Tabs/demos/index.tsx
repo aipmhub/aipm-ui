@@ -1,5 +1,5 @@
-import { Typography } from '@lobehub/ui';
-import { Tab, Tabs } from '@lobehub/ui/mdx';
+import { Typography } from '@aipmui/ui';
+import { Tab, Tabs } from '@aipmui/ui/mdx';
 
 export default () => (
   <Typography>

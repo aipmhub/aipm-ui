@@ -1,11 +1,4 @@
-import {
-  Alert,
-  AlertProps,
-  Highlighter,
-  StoryBook,
-  useControls,
-  useCreateStore,
-} from '@lobehub/ui';
+import { Alert, AlertProps, Highlighter, StoryBook, useControls, useCreateStore } from '@aipmui/ui';
 
 const demoError = {
   details: {

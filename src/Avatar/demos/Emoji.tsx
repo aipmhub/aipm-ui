@@ -1,4 +1,4 @@
-import { Avatar } from '@lobehub/ui';
+import { Avatar } from '@aipmui/ui';
 
 export default () => {
   return <Avatar avatar={'📺'} />;

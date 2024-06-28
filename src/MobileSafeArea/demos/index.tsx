@@ -1,7 +1,7 @@
 /**
  * iframe: true
  */
-import { MobileSafeArea } from '@lobehub/ui';
+import { MobileSafeArea } from '@aipmui/ui';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => {

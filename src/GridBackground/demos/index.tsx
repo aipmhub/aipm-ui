@@ -4,7 +4,7 @@ import {
   StoryBook,
   useControls,
   useCreateStore,
-} from '@lobehub/ui';
+} from '@aipmui/ui';
 import { useTheme } from 'antd-style';
 import { rgba } from 'polished';
 

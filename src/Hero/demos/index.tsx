@@ -1,4 +1,4 @@
-import { Hero, HeroProps } from '@lobehub/ui';
+import { Hero, HeroProps } from '@aipmui/ui';
 
 const actions: HeroProps['actions'] = [
   {

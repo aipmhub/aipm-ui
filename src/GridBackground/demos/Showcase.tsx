@@ -1,4 +1,4 @@
-import { GridShowcase, LogoThree } from '@lobehub/ui';
+import { GridShowcase, LogoThree } from '@aipmui/ui';
 
 export default () => {
   return (

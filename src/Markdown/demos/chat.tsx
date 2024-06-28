@@ -1,4 +1,4 @@
-import { Markdown, MarkdownProps, StoryBook, useControls, useCreateStore } from '@lobehub/ui';
+import { Markdown, MarkdownProps, StoryBook, useControls, useCreateStore } from '@aipmui/ui';
 
 import { content } from '@/Markdown/demos/data';
 

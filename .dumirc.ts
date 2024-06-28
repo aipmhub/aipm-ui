@@ -25,7 +25,7 @@ const themeConfig = {
     pkg: name,
     sourceUrl: `{github}/tree/master/src/{atomId}/index.tsx`,
   },
-  description: 'Lobe UI is an open-source UI component library for building AIGC web apps',
+  description: 'AiPM UI is an open-source UI component library for building AIGC web apps',
   footer: 'Made with 🤯 by AiPMHub',
 
   giscus: {
@@ -46,15 +46,15 @@ const themeConfig = {
     { link: '/changelog', title: 'Changelog' },
   ],
   socialLinks: {
-    discord: 'https://discord.gg/AYFPHvv2jT',
+    discord: 'https://discord.gg/sYB5zSyD',
     github: homepage,
   },
-  title: 'Lobe UI',
+  title: 'AiPM UI',
 };
 
 export default defineConfig({
   alias: {
-    '@lobehub/ui/mdx': resolve(__dirname, './src/mdx'),
+    '@aipmui/ui/mdx': resolve(__dirname, './src/mdx'),
   },
   apiParser: isProduction ? {} : false,
   base: '/',
