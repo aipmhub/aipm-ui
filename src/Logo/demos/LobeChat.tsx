@@ -1,10 +1,10 @@
 import { StoryBook, useControls, useCreateStore } from '@aipmui/ui';
 
-import { LobeChat, LobeChatProps } from '@/brand';
+import { AiPMChat, AiPMChatProps } from '@/aipmorg';
 
 export default () => {
   const store = useCreateStore();
-  const control: LobeChatProps | any = useControls(
+  const control: AiPMChatProps | any = useControls(
     {
       size: {
         max: 240,
@@ -22,7 +22,7 @@ export default () => {
 
   return (
     <StoryBook levaStore={store}>
-      <LobeChat {...control} />
+      <AiPMChat {...control} />
     </StoryBook>
   );
 };

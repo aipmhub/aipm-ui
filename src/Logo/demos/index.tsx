@@ -1,10 +1,10 @@
 import { StoryBook, useControls, useCreateStore } from '@aipmui/ui';
 
-import { LobeHub, LobeHubProps } from '@/brand';
+import { AiPMHub, AiPMHubProps } from '@/aipmorg';
 
 export default () => {
   const store = useCreateStore();
-  const control: LobeHubProps | any = useControls(
+  const control: AiPMHubProps | any = useControls(
     {
       size: {
         max: 240,
@@ -22,7 +22,7 @@ export default () => {
 
   return (
     <StoryBook levaStore={store}>
-      <LobeHub {...control} />
+      <AiPMHub {...control} />
     </StoryBook>
   );
 };

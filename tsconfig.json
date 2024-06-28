@@ -14,13 +14,15 @@
       "@aipmui/ui/mdx": ["src/mdx"],
       "@aipmui/ui/mdx/*": ["src/mdx/*"],
       "@aipmui/ui/brand": ["src/brand"],
-      "@aipmui/ui/brand/*": ["src/brand/*"]
+      "@aipmui/ui/brand/*": ["src/brand/*"],
+      "@aipmui/ui/aipmorg": ["src/aipmorg"],
+      "@aipmui/ui/aipmorg/*": ["src/aipmorg/*"]
     },
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "strict": true,
     "types": ["vitest/globals"]
   },
-  "exclude": ["mdx.d.ts", "brand.d.ts"],
+  "exclude": ["mdx.d.ts", "brand.d.ts", "aipmorg.d.ts"],
   "include": ["src", "docs", "tests", ".dumirc.ts", ".fatherrc.ts"]
 }
