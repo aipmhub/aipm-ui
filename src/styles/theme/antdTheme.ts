@@ -14,7 +14,7 @@ export interface LobeAntdThemeParams {
 }
 
 /**
- * create A LobeHub Style Antd Theme Object
+ * create A AiPMHub Style Antd Theme Object
  * @param neutralColor
  * @param appearance
  * @param primaryColor

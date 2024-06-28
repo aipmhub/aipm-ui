@@ -6,11 +6,11 @@ import { Flexbox } from 'react-layout-kit';
 
 import { DivProps } from '@/types';
 
-import LogoText from './components/AiPMChatText';
-import Divider from './components/Divider';
-import Logo3d from './components/Logo3d';
-import LogoFlat from './components/LogoFlat';
-import LogoMono from './components/LogoMono';
+import AiPMLogoText from './components/AiPMChatText';
+import AiPMDivider from './components/AiPMDivider';
+import AiPMLogo3d from './components/AiPMLogo3d';
+import AiPMLogoFlat from './components/AiPMLogoFlat';
+import AiPMLogoMono from './components/AiPMLogoMono';
 import { useStyles } from './style';
 
 export interface AiPMChatProps extends DivProps {
@@ -38,28 +38,28 @@ const AiPMChat = memo<AiPMChatProps>(
 
     switch (type) {
       case '3d': {
-        logoComponent = <Logo3d alt={'AiPMChat'} size={size} {...rest} />;
+        logoComponent = <AiPMLogo3d alt={'AiPMChat'} size={size} {...rest} />;
         break;
       }
       case 'flat': {
-        logoComponent = <LogoFlat size={size} style={style} />;
+        logoComponent = <AiPMLogoFlat size={size} style={style} />;
         break;
       }
       case 'mono': {
-        logoComponent = <LogoMono size={size} style={style} />;
+        logoComponent = <AiPMLogoMono size={size} style={style} />;
         break;
       }
       case 'text': {
         logoComponent = (
-          <LogoText className={className} size={size} style={style} {...(rest as any)} />
+          <AiPMLogoText className={className} size={size} style={style} {...(rest as any)} />
         );
         break;
       }
       case 'combine': {
         logoComponent = (
           <>
-            <Logo3d alt="AiPMChat" size={size} />
-            <LogoText size={size} style={{ marginLeft: Math.round(size / 4) }} />
+            <AiPMLogo3d alt="AiPMChat" size={size} />
+            <AiPMLogoText size={size} style={{ marginLeft: Math.round(size / 4) }} />
           </>
         );
 
@@ -88,7 +88,7 @@ const AiPMChat = memo<AiPMChatProps>(
         {...rest}
       >
         {logoComponent}
-        <Divider size={extraSize} style={{ color: theme.colorFill }} />
+        <AiPMDivider size={extraSize} style={{ color: theme.colorFill }} />
         <div className={styles.extraTitle} style={{ fontSize: extraSize }}>
           {extra}
         </div>

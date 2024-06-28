@@ -1,27 +1,27 @@
 export default [
   {
     content:
-      'Empowering your AI dreams with LobeHub. LobeHub has 16 repositories available. Follow their code on GitHub.',
+      'Empowering your AI dreams with AiPMHub. AiPMHub has 16 repositories available. Follow their code on GitHub.',
     favicon:
       'https://serpapi.com/searches/64e83bc4c9990330f48fd62f/images/f40516e98093ab4c002d39bf835b3922f1bbde9729ef8e1ae8a488d7c74c8ad5.png',
-    title: 'LobeHub - GitHub',
+    title: 'AiPMHub - GitHub',
   },
   {
     content:
-      'Lobe UI is an open-source UI component library for building AIGC web apps - GitHub - lobehub/lobe-ui: Lobe UI is an open-source UI component library for ...',
+      'AiPM UI is an open-source UI component library for building AIGC web apps - GitHub - aipmhub/aipm-ui: AiPM UI is an open-source UI component library for ...',
     favicon:
       'https://serpapi.com/searches/64e83bc4c9990330f48fd62f/images/f40516e98093ab4c002d39bf835b3922f7d5cfce4fde91906aba32fa8a7f31b2.png',
-    title: 'lobehub/lobe-ui - GitHub',
+    title: 'aipmhub/aipm-ui - GitHub',
   },
   {
-    content: 'Meet the LobeHub: Empowering your AI dreams with LobeHub.',
+    content: 'Meet the AiPMHub: Empowering your AI dreams with AiPMHub.',
     favicon:
       'https://serpapi.com/searches/64e83bc4c9990330f48fd62f/images/f40516e98093ab4c002d39bf835b39220df8c473af72e6e3eaf6444118e39dcd.png',
-    title: 'Team: LobeHub - Lablab.ai',
+    title: 'Team: AiPMHub - Lablab.ai',
   },
   {
     content:
-      'Lobe UI is an open-source UI component library for building AIGC web apps. Version: 1.68.0 was published by arvinxx.',
+      'AiPM UI is an open-source UI component library for building AIGC web apps. Version: 1.68.0 was published by arvinxx.',
     favicon:
       'https://serpapi.com/searches/64e83bc4c9990330f48fd62f/images/f40516e98093ab4c002d39bf835b3922a78893068fa9ff7249d46b96a844cc8f.png',
     title: '@aipmui/ui - npm Package Overview - Socket',

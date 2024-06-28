@@ -59,10 +59,10 @@ const TokenTag = forwardRef<HTMLDivElement, TokenTagProps>(
       emoji = '🌿';
     } else if (percent > 0) {
       type = 'low';
-      emoji = '🍃';
+      emoji = '🍂';
     } else {
       type = 'overload';
-      emoji = '🌳';
+      emoji = '🥀';
     }
 
     const { styles, cx } = useStyles({ shape, type });

@@ -14,7 +14,7 @@ export default () => {
   const store = useCreateStore();
   const control: FluentEmojiProps | any = useControls(
     {
-      emoji: '🤯',
+      emoji: '🌿',
       size: {
         max: 128,
         min: 16,

@@ -6,20 +6,20 @@ const columns: FooterProps['columns'] = [
       {
         description: 'AIGC Components',
         openExternal: true,
-        title: '🤯 Lobe UI',
-        url: 'https://github.com/lobehub/lobe-ui',
+        title: '🌿 AiPM UI',
+        url: 'https://github.com/aipmhub/aipm-ui',
       },
       {
         description: 'Chatbot Client',
         openExternal: true,
-        title: '🤯 Lobe Chat',
-        url: 'https://github.com/lobehub/lobe-chat',
+        title: '🌿 AiPM Chat',
+        url: 'https://github.com/aipmhub/aipm-chat',
       },
       {
         description: 'Node Flow Editor',
         openExternal: true,
-        title: '🤯 Lobe Flow',
-        url: 'https://github.com/lobehub/lobe-flow',
+        title: '🌿 AiPM Flow',
+        url: 'https://github.com/aipmhub/aipm-flow',
       },
     ],
     title: 'Resources',
@@ -29,14 +29,14 @@ const columns: FooterProps['columns'] = [
       {
         description: 'AI Commit CLI',
         openExternal: true,
-        title: '💌 Lobe Commit',
-        url: 'https://github.com/lobehub/lobe-commit',
+        title: '💌 AiPM Commit',
+        url: 'https://github.com/aipmhub/aipm-cli-toolbox',
       },
       {
         description: 'Lint Config',
         openExternal: true,
-        title: '📐 Lobe Lint',
-        url: 'https://github.com/lobehub/lobe-lint',
+        title: '📐 AiPM Lint',
+        url: 'https://github.com/aipmhub/aipm-lint',
       },
     ],
     title: 'More Products',
@@ -44,5 +44,5 @@ const columns: FooterProps['columns'] = [
 ];
 
 export default () => {
-  return <Footer bottom="Copyright © 2022" columns={columns} />;
+  return <Footer bottom="Copyright © 2024" columns={columns} />;
 };

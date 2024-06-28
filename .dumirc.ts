@@ -26,15 +26,14 @@ const themeConfig = {
     sourceUrl: `{github}/tree/master/src/{atomId}/index.tsx`,
   },
   description: 'AiPM UI is an open-source UI component library for building AIGC web apps',
-  footer: 'Made with 🤯 by AiPMHub',
+  footer: 'Made with 🌿 by AiPMHub',
 
   giscus: {
     category: 'Q&A',
-    categoryId: 'DIC_kwDOJloKoM4CXsCu',
-    repo: 'lobehub/lobe-ui',
-    repoId: 'R_kgDOJloKoA',
+    categoryId: 'DIC_kwDOMNDKq84Cgci4',
+    repo: 'aipmhub/aipm-ui',
+    repoId: 'R_kgDOMNDKqw',
   },
-  name: 'UI',
   nav: [
     { link: '/components/action-icon', title: 'Components' },
     { link: '/mdx/callout', title: 'Mdx' },
@@ -80,5 +79,5 @@ export default defineConfig({
   }`,
   ],
   themeConfig,
-  title: 'Lobe UI',
+  title: 'AiPM UI',
 });

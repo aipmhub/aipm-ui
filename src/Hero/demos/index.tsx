@@ -17,7 +17,7 @@ export default () => {
   return (
     <Hero
       actions={actions}
-      description="Lobe UI is an open-source UI component library for <br/>building chatbot web apps"
+      description="AiPM UI is an open-source UI component library for <br/>building chatbot web apps"
       title="Lobe <b>UI</b>"
     />
   );
