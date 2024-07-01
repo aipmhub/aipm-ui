@@ -38,7 +38,7 @@ const LobeChat = memo<LobeChatProps>(
 
     switch (type) {
       case '3d': {
-        logoComponent = <Logo3d alt={'LobeChat'} size={size} {...rest} />;
+        logoComponent = <Logo3d alt={'AiPMChat'} size={size} {...rest} />;
         break;
       }
       case 'flat': {
@@ -58,7 +58,7 @@ const LobeChat = memo<LobeChatProps>(
       case 'combine': {
         logoComponent = (
           <>
-            <Logo3d alt="LobeChat" size={size} />
+            <Logo3d alt="AiPMChat" size={size} />
             <LogoText size={size} style={{ marginLeft: Math.round(size / 4) }} />
           </>
         );
