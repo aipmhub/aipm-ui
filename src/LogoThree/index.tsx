@@ -9,7 +9,7 @@ import Spline, { type SplineProps } from '@/Spline';
 
 const LOGO_3D = {
   path: 'assets/logo-3d.webp',
-  pkg: '@lobehub/assets-logo',
+  pkg: '@aipmorg/assets-logo',
   version: '1.2.0',
 };
 

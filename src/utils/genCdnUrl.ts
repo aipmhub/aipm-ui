@@ -22,10 +22,10 @@ export const genCdnUrl = ({ pkg, version = 'latest', path, proxy }: CdnApi): str
   }
 };
 
-// export type JsdelivrCDN = 'jsdelivr' | 'lobehub';
+// export type JsdelivrCDN = 'jsdelivr' | 'aipmhub';
 //
 // const JSDELIVR_API = 'https://fastly.jsdelivr.net';
-// const LOBEHUB_API = 'https://jsdelivr.lobeobjects.space';
+// const AIPMHUB_API = 'https://jsdelivr.aipmobjects.space';
 //
 // export interface JsdelivrApi {
 //   path: string;
@@ -39,7 +39,7 @@ export const genCdnUrl = ({ pkg, version = 'latest', path, proxy }: CdnApi): str
 //       return urlJoin(JSDELIVR_API, 'gh', repo, path);
 //     }
 //     default: {
-//       return urlJoin(LOBEHUB_API, 'gh', repo, path);
+//       return urlJoin(AIPMHUB_API, 'gh', repo, path);
 //     }
 //   }
 // };

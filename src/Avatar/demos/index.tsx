@@ -10,7 +10,7 @@ export default () => {
       animation: false,
       avatar: genCdnUrl({
         path: 'assets/logo-3d.webp',
-        pkg: '@lobehub/assets-logo',
+        pkg: '@aipmorg/assets-logo',
         version: 'latest',
       }),
       background: '#FEE064',

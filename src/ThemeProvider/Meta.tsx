@@ -15,7 +15,7 @@ const Meta = memo<MetaProps>(
       (path: string) =>
         genCdnUrl({
           path,
-          pkg: '@lobehub/assets-favicons',
+          pkg: '@aipmorg/assets-favicons',
           version: 'latest',
         }),
       [],

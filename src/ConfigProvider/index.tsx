@@ -37,7 +37,7 @@ export const useCdnFn = (): CdnFn => {
 // export type JsdelivrFn = ({ repo, path }: JsdelivrApi) => string;
 //
 // const JsdelivrFallback: JsdelivrFn = ({ repo, path }) =>
-//   genJsdelivrUrl({ path, proxy: 'lobehub', repo });
+//   genJsdelivrUrl({ path, proxy: 'aipmhub', repo });
 //
 // export const useJsdelivrFn = (): JsdelivrFn => {
 //   const config = useContext(ConfigContext);
