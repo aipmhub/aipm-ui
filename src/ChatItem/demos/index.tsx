@@ -5,7 +5,7 @@ import {
   StoryBook,
   useControls,
   useCreateStore,
-} from '@aipmui/ui';
+} from '@aipmorg/ui';
 import { useState } from 'react';
 
 import { avatar, dropdownMenu, items } from './data';

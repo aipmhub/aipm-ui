@@ -1,4 +1,4 @@
-import { LogoThree, LogoThreeProps, StoryBook, useControls, useCreateStore } from '@aipmui/ui';
+import { LogoThree, LogoThreeProps, StoryBook, useControls, useCreateStore } from '@aipmorg/ui';
 
 export default () => {
   const store = useCreateStore();

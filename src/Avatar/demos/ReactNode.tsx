@@ -1,4 +1,4 @@
-import { Avatar } from '@aipmui/ui';
+import { Avatar } from '@aipmorg/ui';
 import { UserOutlined } from '@ant-design/icons';
 
 export default () => {

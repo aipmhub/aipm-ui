@@ -4,7 +4,7 @@ import {
   DraggablePanelContainer,
   DraggablePanelFooter,
   DraggablePanelHeader,
-} from '@aipmui/ui';
+} from '@aipmorg/ui';
 import { useState } from 'react';
 import { Flexbox } from 'react-layout-kit';
 

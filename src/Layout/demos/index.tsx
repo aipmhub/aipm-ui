@@ -1,4 +1,4 @@
-import { Layout } from '@aipmui/ui';
+import { Layout } from '@aipmorg/ui';
 import { createStyles } from 'antd-style';
 import { Flexbox } from 'react-layout-kit';
 

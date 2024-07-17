@@ -1,4 +1,4 @@
-import { CodeEditor } from '@aipmui/ui';
+import { CodeEditor } from '@aipmorg/ui';
 import { useState } from 'react';
 
 import { content } from '../../Markdown/demos/data';

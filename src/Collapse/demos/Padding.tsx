@@ -1,4 +1,4 @@
-import { ActionIcon, Collapse, CollapseProps } from '@aipmui/ui';
+import { ActionIcon, Collapse, CollapseProps } from '@aipmorg/ui';
 import { SettingsIcon } from 'lucide-react';
 import { Flexbox } from 'react-layout-kit';
 

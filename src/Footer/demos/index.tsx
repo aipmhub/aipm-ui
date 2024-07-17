@@ -1,4 +1,4 @@
-import { Footer, FooterProps } from '@aipmui/ui';
+import { Footer, FooterProps } from '@aipmorg/ui';
 
 const columns: FooterProps['columns'] = [
   {

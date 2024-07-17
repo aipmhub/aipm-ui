@@ -1,4 +1,4 @@
-import { GaussianBackground, StoryBook, useControls, useCreateStore } from '@aipmui/ui';
+import { GaussianBackground, StoryBook, useControls, useCreateStore } from '@aipmorg/ui';
 import { useTheme } from 'antd-style';
 import React from 'react';
 

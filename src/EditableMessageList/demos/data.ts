@@ -1,4 +1,4 @@
-import { LLMMessage } from '@aipmui/ui';
+import { LLMMessage } from '@aipmorg/ui';
 
 export const data: LLMMessage[] = [
   {

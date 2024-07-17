@@ -1,4 +1,4 @@
-import { BackBottom } from '@aipmui/ui';
+import { BackBottom } from '@aipmorg/ui';
 import { useRef } from 'react';
 
 export default () => {

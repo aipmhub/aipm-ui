@@ -1,4 +1,4 @@
-import { EditableMessageList } from '@aipmui/ui';
+import { EditableMessageList } from '@aipmorg/ui';
 
 import { data } from './data';
 

@@ -1,4 +1,4 @@
-import { ThemeProvider } from '@aipmui/ui';
+import { ThemeProvider } from '@aipmorg/ui';
 import { Button } from 'antd';
 
 export default () => {

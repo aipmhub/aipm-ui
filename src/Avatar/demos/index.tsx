@@ -1,4 +1,4 @@
-import { ActionIconProps, Avatar, StoryBook, useControls, useCreateStore } from '@aipmui/ui';
+import { ActionIconProps, Avatar, StoryBook, useControls, useCreateStore } from '@aipmorg/ui';
 
 import { useCdnFn } from '@/ConfigProvider';
 

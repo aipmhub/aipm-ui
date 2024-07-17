@@ -1,4 +1,4 @@
-import { SelectWithImg } from '@aipmui/ui';
+import { SelectWithImg } from '@aipmorg/ui';
 import { useState } from 'react';
 
 export default () => {

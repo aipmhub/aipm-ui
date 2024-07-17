@@ -1,4 +1,4 @@
-import { SpotlightCard } from '@aipmui/ui';
+import { SpotlightCard } from '@aipmorg/ui';
 import { Avatar } from 'antd';
 import { Flexbox } from 'react-layout-kit';
 

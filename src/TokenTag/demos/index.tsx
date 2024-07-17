@@ -1,4 +1,4 @@
-import { StoryBook, TokenTag, TokenTagProps, useControls, useCreateStore } from '@aipmui/ui';
+import { StoryBook, TokenTag, TokenTagProps, useControls, useCreateStore } from '@aipmorg/ui';
 
 export default () => {
   const store = useCreateStore();

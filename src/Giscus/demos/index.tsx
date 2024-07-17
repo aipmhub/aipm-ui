@@ -1,4 +1,4 @@
-import { Giscus } from '@aipmui/ui';
+import { Giscus } from '@aipmorg/ui';
 
 export default () => {
   return (

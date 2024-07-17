@@ -1,4 +1,4 @@
-import { MessageModal } from '@aipmui/ui';
+import { MessageModal } from '@aipmorg/ui';
 import { Button } from 'antd';
 import { useState } from 'react';
 

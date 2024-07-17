@@ -1,5 +1,5 @@
-import { StoryBook, Typography, useControls, useCreateStore } from '@aipmui/ui';
-import { Callout } from '@aipmui/ui/mdx';
+import { StoryBook, Typography, useControls, useCreateStore } from '@aipmorg/ui';
+import { Callout } from '@aipmorg/ui/mdx';
 
 export default () => {
   const store = useCreateStore();

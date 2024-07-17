@@ -1,5 +1,5 @@
-import { Typography } from '@aipmui/ui';
-import { File, FileTree, Folder } from '@aipmui/ui/mdx';
+import { Typography } from '@aipmorg/ui';
+import { File, FileTree, Folder } from '@aipmorg/ui/mdx';
 
 export default () => (
   <Typography>

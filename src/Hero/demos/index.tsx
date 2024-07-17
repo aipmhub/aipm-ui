@@ -1,4 +1,4 @@
-import { Hero, HeroProps } from '@aipmui/ui';
+import { Hero, HeroProps } from '@aipmorg/ui';
 
 const actions: HeroProps['actions'] = [
   {

@@ -1,4 +1,4 @@
-import { Grid, GridProps, StoryBook, useControls, useCreateStore } from '@aipmui/ui';
+import { Grid, GridProps, StoryBook, useControls, useCreateStore } from '@aipmorg/ui';
 
 export default () => {
   const store = useCreateStore();

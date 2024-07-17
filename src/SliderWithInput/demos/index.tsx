@@ -1,4 +1,4 @@
-import { SliderWithInput } from '@aipmui/ui';
+import { SliderWithInput } from '@aipmorg/ui';
 
 export default () => {
   return <SliderWithInput />;

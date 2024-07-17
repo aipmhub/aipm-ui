@@ -1,4 +1,4 @@
-import { Highlighter, HighlighterProps, StoryBook, useControls, useCreateStore } from '@aipmui/ui';
+import { Highlighter, HighlighterProps, StoryBook, useControls, useCreateStore } from '@aipmorg/ui';
 
 const code = `export default ({ children, className }: MarkdownProps) => {
   const { styles } = useStyles();

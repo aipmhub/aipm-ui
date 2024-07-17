@@ -1,10 +1,10 @@
-import { Snippet, SnippetProps, StoryBook, useControls, useCreateStore } from '@aipmui/ui';
+import { Snippet, SnippetProps, StoryBook, useControls, useCreateStore } from '@aipmorg/ui';
 
 export default () => {
   const store = useCreateStore();
   const control: SnippetProps | any = useControls(
     {
-      children: 'pnpm install @aipmui/ui',
+      children: 'pnpm install @aipmorg/ui',
       copyable: true,
       language: 'sh',
       spotlight: false,

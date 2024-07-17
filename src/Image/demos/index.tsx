@@ -1,4 +1,4 @@
-import { ActionIcon, Image } from '@aipmui/ui';
+import { ActionIcon, Image } from '@aipmorg/ui';
 import { Trash } from 'lucide-react';
 
 export default () => {

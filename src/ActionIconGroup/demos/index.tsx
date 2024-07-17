@@ -4,7 +4,7 @@ import {
   StoryBook,
   useControls,
   useCreateStore,
-} from '@aipmui/ui';
+} from '@aipmorg/ui';
 
 import { dropdownMenu, items } from './data';
 

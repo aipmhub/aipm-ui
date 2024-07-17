@@ -1,4 +1,4 @@
-import { Features, FeaturesProps } from '@aipmui/ui';
+import { Features, FeaturesProps } from '@aipmorg/ui';
 import { MoonStar, Palette, Zap } from 'lucide-react';
 
 const items: FeaturesProps['items'] = [

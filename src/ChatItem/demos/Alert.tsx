@@ -5,7 +5,7 @@ import {
   StoryBook,
   useControls,
   useCreateStore,
-} from '@aipmui/ui';
+} from '@aipmorg/ui';
 
 import { avatar } from './data';
 

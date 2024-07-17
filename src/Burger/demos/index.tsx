@@ -1,4 +1,4 @@
-import { Burger, type BurgerProps } from '@aipmui/ui';
+import { Burger, type BurgerProps } from '@aipmorg/ui';
 import { useState } from 'react';
 
 const items: BurgerProps['items'] = [

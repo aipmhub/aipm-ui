@@ -1,4 +1,4 @@
-import { Modal } from '@aipmui/ui';
+import { Modal } from '@aipmorg/ui';
 import { Button, Typography } from 'antd';
 import { useState } from 'react';
 

@@ -1,4 +1,4 @@
-import { ConfigProvider, Logo } from '@aipmui/ui';
+import { ConfigProvider, Logo } from '@aipmorg/ui';
 
 export default () => {
   return (

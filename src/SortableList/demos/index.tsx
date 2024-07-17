@@ -1,4 +1,4 @@
-import { SortableList, type SortableListProps } from '@aipmui/ui';
+import { SortableList, type SortableListProps } from '@aipmorg/ui';
 import { useState } from 'react';
 
 const data: SortableListProps['items'] = [

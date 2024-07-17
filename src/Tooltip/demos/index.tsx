@@ -1,4 +1,4 @@
-import { StoryBook, Tooltip, TooltipProps, useControls, useCreateStore } from '@aipmui/ui';
+import { StoryBook, Tooltip, TooltipProps, useControls, useCreateStore } from '@aipmorg/ui';
 import { Button } from 'antd';
 
 export default () => {

@@ -1,4 +1,4 @@
-import { Icon, IconProps, StoryBook, useControls, useCreateStore } from '@aipmui/ui';
+import { Icon, IconProps, StoryBook, useControls, useCreateStore } from '@aipmorg/ui';
 import * as LucideIcon from 'lucide-react';
 
 export default () => {

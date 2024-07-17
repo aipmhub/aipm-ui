@@ -1,4 +1,4 @@
-import { CopyButton } from '@aipmui/ui';
+import { CopyButton } from '@aipmorg/ui';
 
 export default () => {
   return <CopyButton content={'content'} />;

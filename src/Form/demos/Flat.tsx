@@ -1,4 +1,4 @@
-import { Form, type FormProps } from '@aipmui/ui';
+import { Form, type FormProps } from '@aipmorg/ui';
 import { Select, Switch } from 'antd';
 
 const setting = {

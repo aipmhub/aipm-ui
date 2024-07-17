@@ -1,4 +1,4 @@
-import { Swatches } from '@aipmui/ui';
+import { Swatches } from '@aipmorg/ui';
 import { useTheme } from 'antd-style';
 import { useState } from 'react';
 

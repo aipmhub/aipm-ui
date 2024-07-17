@@ -1,4 +1,4 @@
-import { ThemeSwitch } from '@aipmui/ui';
+import { ThemeSwitch } from '@aipmorg/ui';
 import { type ThemeMode } from 'antd-style';
 import { useState } from 'react';
 

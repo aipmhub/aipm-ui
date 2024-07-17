@@ -1,4 +1,4 @@
-import { MessageInput } from '@aipmui/ui';
+import { MessageInput } from '@aipmorg/ui';
 import { Divider } from 'antd';
 import { useState } from 'react';
 import { Flexbox } from 'react-layout-kit';

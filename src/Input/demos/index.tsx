@@ -1,4 +1,4 @@
-import { Input, InputProps, StoryBook, useControls, useCreateStore } from '@aipmui/ui';
+import { Input, InputProps, StoryBook, useControls, useCreateStore } from '@aipmorg/ui';
 
 export default () => {
   const store = useCreateStore();

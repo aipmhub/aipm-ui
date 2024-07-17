@@ -1,4 +1,4 @@
-import { ContextMenu, Icon } from '@aipmui/ui';
+import { ContextMenu, Icon } from '@aipmorg/ui';
 import { ZoomInOutlined, ZoomOutOutlined } from '@ant-design/icons';
 import { BoxSelectIcon, CopyIcon } from 'lucide-react';
 import { Flexbox } from 'react-layout-kit';

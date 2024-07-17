@@ -1,4 +1,4 @@
-import { StoryBook, TabsNav, useControls, useCreateStore } from '@aipmui/ui';
+import { StoryBook, TabsNav, useControls, useCreateStore } from '@aipmorg/ui';
 
 export default () => {
   const store = useCreateStore();

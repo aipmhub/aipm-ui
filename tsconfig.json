@@ -9,14 +9,14 @@
     "paths": {
       "@@/*": [".dumi/tmp/*"],
       "@/*": ["src/*"],
-      "@aipmui/ui": ["src"],
-      "@aipmui/ui/*": ["src/*"],
-      "@aipmui/ui/mdx": ["src/mdx"],
-      "@aipmui/ui/mdx/*": ["src/mdx/*"],
-      "@aipmui/ui/brand": ["src/brand"],
-      "@aipmui/ui/brand/*": ["src/brand/*"],
-      "@aipmui/ui/aipmorg": ["src/aipmorg"],
-      "@aipmui/ui/aipmorg/*": ["src/aipmorg/*"]
+      "@aipmorg/ui": ["src"],
+      "@aipmorg/ui/*": ["src/*"],
+      "@aipmorg/ui/mdx": ["src/mdx"],
+      "@aipmorg/ui/mdx/*": ["src/mdx/*"],
+      "@aipmorg/ui/brand": ["src/brand"],
+      "@aipmorg/ui/brand/*": ["src/brand/*"],
+      "@aipmorg/ui/aipmorg": ["src/aipmorg"],
+      "@aipmorg/ui/aipmorg/*": ["src/aipmorg/*"]
     },
     "resolveJsonModule": true,
     "skipLibCheck": true,

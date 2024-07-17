@@ -1,4 +1,4 @@
-import { Avatar } from '@aipmui/ui';
+import { Avatar } from '@aipmorg/ui';
 
 export default () => {
   return <Avatar avatar={'📺'} />;

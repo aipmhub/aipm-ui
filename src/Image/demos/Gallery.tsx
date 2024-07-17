@@ -1,4 +1,4 @@
-import { Image, ImageGallery } from '@aipmui/ui';
+import { Image, ImageGallery } from '@aipmorg/ui';
 import { Flexbox } from 'react-layout-kit';
 
 export default () => {

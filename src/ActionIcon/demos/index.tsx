@@ -1,4 +1,4 @@
-import { ActionIcon, ActionIconProps, StoryBook, useControls, useCreateStore } from '@aipmui/ui';
+import { ActionIcon, ActionIconProps, StoryBook, useControls, useCreateStore } from '@aipmorg/ui';
 import { folder } from 'leva';
 import * as LucideIcon from 'lucide-react';
 

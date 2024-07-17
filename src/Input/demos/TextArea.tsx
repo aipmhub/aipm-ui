@@ -1,4 +1,4 @@
-import { StoryBook, TextArea, TextAreaProps, useControls, useCreateStore } from '@aipmui/ui';
+import { StoryBook, TextArea, TextAreaProps, useControls, useCreateStore } from '@aipmorg/ui';
 
 export default () => {
   const store = useCreateStore();

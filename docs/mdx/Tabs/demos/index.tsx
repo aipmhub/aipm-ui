@@ -1,5 +1,5 @@
-import { Typography } from '@aipmui/ui';
-import { Tab, Tabs } from '@aipmui/ui/mdx';
+import { Typography } from '@aipmorg/ui';
+import { Tab, Tabs } from '@aipmorg/ui/mdx';
 
 export default () => (
   <Typography>

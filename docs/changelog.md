@@ -1,6 +1,6 @@
 ---
 title: Changelog
-description: New updates and improvements to @aipmui/ui
+description: New updates and improvements to @aipmorg/ui
 nav:
   title: Changelog
   order: 999

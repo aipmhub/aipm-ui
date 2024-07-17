@@ -1,4 +1,11 @@
-import { Alert, AlertProps, Highlighter, StoryBook, useControls, useCreateStore } from '@aipmui/ui';
+import {
+  Alert,
+  AlertProps,
+  Highlighter,
+  StoryBook,
+  useControls,
+  useCreateStore,
+} from '@aipmorg/ui';
 
 const demoError = {
   details: {

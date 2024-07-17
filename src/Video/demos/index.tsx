@@ -1,4 +1,4 @@
-import { Video } from '@aipmui/ui';
+import { Video } from '@aipmorg/ui';
 
 export default () => {
   return (

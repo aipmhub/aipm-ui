@@ -53,7 +53,7 @@ const themeConfig = {
 
 export default defineConfig({
   alias: {
-    '@aipmui/ui/mdx': resolve(__dirname, './src/mdx'),
+    '@aipmorg/ui/mdx': resolve(__dirname, './src/mdx'),
   },
   apiParser: isProduction ? {} : false,
   base: '/',

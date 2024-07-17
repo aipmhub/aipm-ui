@@ -1,4 +1,4 @@
-import { StoryBook, useControls, useCreateStore } from '@aipmui/ui';
+import { StoryBook, useControls, useCreateStore } from '@aipmorg/ui';
 
 import { AiPMHub, AiPMHubProps } from '@/aipmorg';
 

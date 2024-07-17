@@ -1,5 +1,5 @@
-import { Typography } from '@aipmui/ui';
-import { Card, Cards } from '@aipmui/ui/mdx';
+import { Typography } from '@aipmorg/ui';
+import { Card, Cards } from '@aipmorg/ui/mdx';
 import { Warehouse } from 'lucide-react';
 
 export default () => (

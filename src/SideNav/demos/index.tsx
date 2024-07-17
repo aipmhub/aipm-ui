@@ -1,4 +1,4 @@
-import { ActionIcon, Logo, SideNav } from '@aipmui/ui';
+import { ActionIcon, Logo, SideNav } from '@aipmorg/ui';
 import { Album, MessageSquare, Settings2 } from 'lucide-react';
 import { useState } from 'react';
 

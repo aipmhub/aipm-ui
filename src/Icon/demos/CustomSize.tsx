@@ -1,4 +1,4 @@
-import { Icon, IconProps, StoryBook, useControls, useCreateStore } from '@aipmui/ui';
+import { Icon, IconProps, StoryBook, useControls, useCreateStore } from '@aipmorg/ui';
 import { Settings } from 'lucide-react';
 
 export default () => {

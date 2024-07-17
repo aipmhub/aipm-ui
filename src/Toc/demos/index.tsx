@@ -1,4 +1,4 @@
-import { StoryBook, Toc, type TocProps, useControls, useCreateStore } from '@aipmui/ui';
+import { StoryBook, Toc, type TocProps, useControls, useCreateStore } from '@aipmorg/ui';
 
 const items: TocProps['items'] = [
   {

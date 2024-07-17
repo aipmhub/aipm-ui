@@ -1,4 +1,4 @@
-import { ActionIcon, Collapse, CollapseProps, StoryBook } from '@aipmui/ui';
+import { ActionIcon, Collapse, CollapseProps, StoryBook } from '@aipmorg/ui';
 import { SettingsIcon } from 'lucide-react';
 
 import { useControls, useCreateStore } from '@/index';

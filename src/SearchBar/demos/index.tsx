@@ -1,4 +1,4 @@
-import { SearchBar, SearchBarProps, StoryBook, useControls, useCreateStore } from '@aipmui/ui';
+import { SearchBar, SearchBarProps, StoryBook, useControls, useCreateStore } from '@aipmorg/ui';
 
 export default () => {
   const store = useCreateStore();

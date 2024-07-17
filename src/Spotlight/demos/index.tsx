@@ -1,4 +1,4 @@
-import { Spotlight, SpotlightProps, StoryBook, useControls, useCreateStore } from '@aipmui/ui';
+import { Spotlight, SpotlightProps, StoryBook, useControls, useCreateStore } from '@aipmorg/ui';
 import { createStyles } from 'antd-style';
 
 const useStyles = createStyles(({ css, token }) => ({

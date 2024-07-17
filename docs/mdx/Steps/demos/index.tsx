@@ -1,5 +1,5 @@
-import { Typography } from '@aipmui/ui';
-import { Steps } from '@aipmui/ui/mdx';
+import { Typography } from '@aipmorg/ui';
+import { Steps } from '@aipmorg/ui/mdx';
 
 export default () => (
   <Typography>
